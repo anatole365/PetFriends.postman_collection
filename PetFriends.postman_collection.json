@@ -106,11 +106,7 @@
 					"listen": "prerequest",
 					"script": {
 						"exec": [
-							"const cookieJar = pm.cookies.jar();",
-							"cookieJar.clear(pm.collectionVariables.get(\"base_url\"), printErr());",
-							"function printErr(error){",
-							"    console.log(error);",
-							"};"
+							""
 						],
 						"type": "text/javascript"
 					}
