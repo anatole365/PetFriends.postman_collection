@@ -1,6 +1,6 @@
 # PetFriends.postman_collection
 
-Это пример смоук тестирования API сайта https://petfriends.skillfactory.ru/
+PetFriends.postman_collection - пример смоук тестирования API сайта https://petfriends.skillfactory.ru/
 
 PetFriends - Социальная сеть для любителей животных
 
